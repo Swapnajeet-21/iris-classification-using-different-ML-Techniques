@@ -34,5 +34,5 @@ This project:
 ## 🎯 How to Run
 1. Clone the repository  
    ```bash
-   git clone https://github.com/your-username/iris-classification.git
+   git clone https://github.com/Swapnajeet-21/iris-classification-using-different-ML-Techniques.git
    cd iris-classification
